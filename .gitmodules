@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "rfastlowess"]
 	path = rfastlowess
-	url = https://github.com/thisisamirv/rfastlowess
+	url = https://github.com/thisisamirv/lowess-project
+	subdir = bindings/r
