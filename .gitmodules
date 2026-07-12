@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/thisisamirv/thisisamirv.r-universe.dev
 	branch = HEAD
+[submodule "rfastloess"]
+	path = rfastloess
+	url = https://github.com/thisisamirv/loess-project
+	subdir = bindings/r
 [submodule "rfastlowess"]
 	path = rfastlowess
 	url = https://github.com/thisisamirv/lowess-project
